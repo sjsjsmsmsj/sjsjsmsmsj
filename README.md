@@ -8,8 +8,10 @@
 </ul>
 
 ### 🌐 Kết nối với tôi:
-- [![youtube](https://www.youtube.com/@GiaThinh2005)
--  #0033FF lamgiathinh05@gmail.com
+
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GiaThinh2005)
+- [![Email](https://img.shields.io/badge/Email-%230033FF.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lamgiathinh05@gmail.com)
+
 
 ### 🛠️ Kỹ năng:
 - **Ngôn ngữ lập trình**: Python, C++, Java
