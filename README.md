@@ -18,6 +18,6 @@
 - **Công nghệ**: Docker, Kubernetes, AWS, CI/CD
 
 ### 📈 Thống kê GitHub của tôi:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjsjsmsmsj&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjsjsmsmsj)
 
