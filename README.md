@@ -18,6 +18,7 @@
 - **Công nghệ**: Docker, Kubernetes, AWS, CI/CD
 - **Database**: SQL SERVER
 - **Ngoại Ngữ**: Có khả năng đọc, hiểu, nói, viết tiếng anh
+- **Thuật toán machine learning, deep learning căn bản**
 
 ### 📈 Thống kê GitHub của tôi:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjsjsmsmsj&show_icons=true)
