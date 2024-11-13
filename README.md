@@ -16,7 +16,7 @@
 ### 🛠️ Kỹ năng:
 - **Ngôn ngữ lập trình**: Python, C++, Java, HTML, CSS, Javascript
 - **Công nghệ**: Docker, Kubernetes, AWS, CI/CD
-- **Database: SQL SERVER
+- **Database**: SQL SERVER
 - ** Có khả năng đọc, hiểu, nói, viết tiếng anh
 
 ### 📈 Thống kê GitHub của tôi:
