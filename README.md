@@ -14,8 +14,10 @@
 
 
 ### 🛠️ Kỹ năng:
-- **Ngôn ngữ lập trình**: Python, C++, Java
+- **Ngôn ngữ lập trình**: Python, C++, Java, HTML, CSS, Javascript
 - **Công nghệ**: Docker, Kubernetes, AWS, CI/CD
+- **Database: SQL SERVER
+- ** Có khả năng đọc, hiểu, nói, viết tiếng anh
 
 ### 📈 Thống kê GitHub của tôi:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjsjsmsmsj&show_icons=true)
