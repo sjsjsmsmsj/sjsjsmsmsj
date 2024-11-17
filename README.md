@@ -20,7 +20,11 @@
 - **Ngoại Ngữ**: Có khả năng đọc, hiểu, nói, viết tiếng anh
 - **Thuật toán machine learning, deep learning căn bản**
 
+![LeetCode Solutions](https://github.com/sjsjsmsmsj/sjsjsmsmsj/blob/main/hinh.png)
+
+
 ### 📈 Thống kê GitHub của tôi:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjsjsmsmsj&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjsjsmsmsj)
+
 
