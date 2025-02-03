@@ -1,7 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Xin chào, tôi là <span style="color:#F77F00;">Lâm Gia Thịnh</span>!</h1>
 <h3 align="center">🎓 Sinh viên ngành <b>Khoa Học Máy Tính</b></h3>
-<h3 align="center"><b>Ai cũng phải bắt đầu từ đâu đó</b></h3>
 
 <!-- ABOUT ME -->
 <p align="center">
