@@ -1,79 +1,33 @@
-<!-- HEADER -->
 <h1 align="center">👋 Xin chào, tôi là <span style="color:#F77F00;">Lâm Gia Thịnh</span>!</h1>
-<h3 align="center">🎓 Sinh viên ngành <b>Khoa Học Máy Tính</b></h3>
+<h3 align="center">🎓 Sinh viên <b>Khoa Học Máy Tính</b></h3>
 
-<!-- ABOUT ME -->
 <p align="center">
-  💡 Tôi đam mê công nghệ và luôn tìm kiếm cơ hội để phát triển bản thân! <br>
-  🚀 Mục tiêu: Học hỏi AI, giải quyết vấn đề thuật toán, và phát triển các dự án sáng tạo.
+  🚀 Đam mê công nghệ, AI & thuật toán! <br>
+  <i>"Ai cũng phải bắt đầu đâu đó."</i> ✨
 </p>
-<p align="center"><i>"Ai cũng phải bắt đầu đâu đó."</i> ✨</p>
 
----
+### 🌟 **Sở thích:**
+- 🎥 Học Công Nghệ trên YouTube  
+- 🌍 Học Tiếng Anh  
+- 🧩 Giải Thuật Toán
 
-<!-- SỞ THÍCH -->
-### 🌟 **Sở thích của tôi:**
-- 🎥 **Học Công Nghệ trên YouTube**  
-- 🌍 **Học Tiếng Anh**  
-- 🧩 **Giải Quyết Vấn Đề Thuật Toán**
-
----
-
-<!-- KẾT NỐI -->
-### 🌐 **Kết nối với tôi:**
+### 🌐 **Kết nối:**
 <p align="center">
   <a href="https://www.youtube.com/@GiaThinh2005">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   <a href="mailto:lamgiathinh05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%230033FF.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-%230033FF.svg?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
----
+### 🛠️ **Kỹ năng:**
+- **Ngôn ngữ:** Python, C++, Java, HTML, CSS, JavaScript  
+- **Công nghệ:** Docker, Kubernetes, AWS, CI/CD  
+- **Database:** SQL Server  
+- **Ngoại ngữ:** Tiếng Anh  
 
-<!-- KỸ NĂNG -->
-### 🛠️ **Kỹ năng của tôi:**
-| **Ngôn ngữ lập trình** | **Công nghệ**           | **Database**   | **Ngoại ngữ**   |
-|-------------------------|-------------------------|----------------|-----------------|
-| Python, C++, Java       | Docker, Kubernetes, AWS | SQL Server     | Tiếng Anh       |
-| HTML, CSS, JavaScript   | CI/CD                  |                |                 |
-
----
-
-<!-- GITHUB STATS -->
-### 📊 **Thống kê GitHub**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sjsjsmsmsj&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjsjsmsmsj&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
-<!-- DỰ ÁN -->
-### 🚀 **Dự án nổi bật**
-| 🌟 Dự án         | 🚀 Mô tả ngắn gọn                          | 🔗 Liên kết  |
-|-----------------|------------------------------------------|-------------|
-| Đang cập nhật... | Sẽ sớm có thêm nhiều dự án thú vị!       | 🚧          |
-
----
-
-<!-- MỤC TIÊU -->
-### 🎯 **Mục tiêu sắp tới:**
-- 🌱 Học sâu về **AI và Machine Learning**.
-- 🏆 Chinh phục các thử thách lập trình trên **LeetCode**.
-- 🚀 Đóng góp vào các dự án mã nguồn mở.
-
----
-
-<!-- LEETCODE -->
-<p align="center">
-  <img src="https://github.com/sjsjsmsmsj/TKMT/blob/main/github.png"/>
-</p>
-
----
-
-<!-- CÂU CHÀO KẾT -->
-<p align="center">
-  💬 <b>Hãy kết nối và cùng học hỏi nhé!</b> 🚀
-</p>
+### 🚀 **Mục tiêu:**
+- 🔍 Học sâu về **AI & Machine Learning**
+- 🏆 Chinh phục **LeetCode**
+- 📌 Đóng góp mã nguồn mở
