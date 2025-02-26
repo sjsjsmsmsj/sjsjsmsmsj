@@ -68,7 +68,7 @@
 
 <!-- LEETCODE -->
 <p align="center">
-  <img src="https://github.com/sjsjsmsmsj/sjsjsmsmsj/blob/main/hinh.png" alt="LeetCode Solutions">
+  <img src="https://github.com/sjsjsmsmsj/TKMT/blob/main/github.png"/>
 </p>
 
 ---
