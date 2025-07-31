@@ -9,7 +9,7 @@
 ---
 
 ### 🌟 **Sở thích**
-- 🎥 Học Công Nghệ trên YouTube  
+- 🎥 Học Công Nghệ trên Youtube khi mới bắt đầu một thứ gì đó, chuyên sâu đọc tài liệu và tự code
 - 🌍 Học Tiếng Anh mỗi ngày  
 - 🧩 Giải các bài toán thuật toán trên LeetCode
 
