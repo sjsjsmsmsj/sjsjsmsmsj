@@ -3,33 +3,72 @@
 
 <p align="center">
   🚀 Đam mê công nghệ, AI & thuật toán! <br>
-  <i>"Ai cũng phải bắt đầu đâu đó."</i> ✨
+  <i>"Ai cũng phải bắt đầu từ đâu đó."</i> ✨
 </p>
 
-### 🌟 **Sở thích:**
-- 🎥 Học Công Nghệ trên YouTube  
-- 🌍 Học Tiếng Anh  
-- 🧩 Giải Thuật Toán
+---
 
-### 🌐 **Kết nối:**
+### 🌟 **Sở thích**
+- 🎥 Học Công Nghệ trên YouTube  
+- 🌍 Học Tiếng Anh mỗi ngày  
+- 🧩 Giải các bài toán thuật toán trên LeetCode
+
+---
+
+### 🛠️ **Kỹ năng & Công nghệ**
+
+#### 🔤 Ngôn ngữ lập trình
+- JavaScript / TypeScript
+- HTML / CSS
+- C / C++
+- Java
+- Python
+
+#### ⚛️ Frontend
+- React.js
+- Flowbite-React
+- React Toastify
+- SweetAlert2
+
+#### 🖥️ Backend
+- Node.js
+- Express.js
+- RESTful API
+- Axios
+
+#### 🗄️ Cơ sở dữ liệu
+- MongoDB
+- Mongoose
+- SQL Server
+
+#### ☁️ Khác
+- Git & GitHub
+- Postman (kiểm thử API)
+- VSCode
+- Docker (cơ bản)
+
+---
+
+### 🌐 **Kết nối với tôi**
 <p align="center">
-  <a href="https://www.youtube.com/@GiaThinh2005">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white">
+  <a href="https://www.youtube.com/@GiaThinh2005" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <a href="mailto:lamgiathinh05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%230033FF.svg?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-%230033FF.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
-### 🛠️ **Kỹ năng:**
-- **Ngôn ngữ:** Python, C++, Java, HTML, CSS, JavaScript  
-- **Công nghệ:** Docker, Kubernetes, AWS, CI/CD  
-- **Database:** SQL Server  
-- **Ngoại ngữ:** Tiếng Anh  
+---
 
-### 🚀 **Mục tiêu:**
+### 🚀 **Mục tiêu hiện tại**
 - 🔍 Học sâu về **AI & Machine Learning**
-- 🏆 Chinh phục **LeetCode**
-- 📌 Đóng góp mã nguồn mở
+- 🏆 Chinh phục các bài toán **thuật toán trên LeetCode**
+- ⚙️ Xây dựng các **dự án cá nhân** có ứng dụng thực tế
+- 📌 Đóng góp cho **mã nguồn mở**
 
-<img src="https://github.com/sjsjsmsmsj/TKMT/blob/main/github.png"/>
+---
+
+<p align="center">
+  <img src="https://github.com/sjsjsmsmsj/TKMT/blob/main/github.png" width="300"/>
+</p>
