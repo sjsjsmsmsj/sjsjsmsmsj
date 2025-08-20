@@ -70,5 +70,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/sjsjsmsmsj/Xu_Ly_Anh/blob/master/profile.png" width="300"/>
+  <img src="https://github.com/sjsjsmsmsj/Xu_Ly_Anh/blob/master/profile.png" width="500" height="500"/>
 </p>
