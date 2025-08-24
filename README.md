@@ -15,39 +15,17 @@
 
 ---
 
-### 🛠️ **Kỹ năng & Công nghệ**
+
+### 🛠️ Kỹ năng & Công nghệ
 
 #### 🔤 Ngôn ngữ lập trình
-- JavaScript / TypeScript
-- HTML / CSS
-- C / C++
-- Java
-- Python
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=000)
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### ⚛️ Frontend
-- React.js
-- Flowbite-React
-- React Toastify
-- SweetAlert2
-
-#### 🖥️ Backend
-- Node.js
-- Express.js
-- RESTful API
-- Axios
-
-#### 🗄️ Cơ sở dữ liệu
-- MongoDB
-- Mongoose
-- SQL Server
-
-#### ☁️ Khác
-- Git & GitHub
-- Postman (kiểm thử API)
-- VSCode
-- Docker (cơ bản)
-
----
 
 ### 🌐 **Kết nối với tôi**
 <p align="center">
@@ -68,6 +46,17 @@
 - 📌 Đóng góp cho **mã nguồn mở**
 
 ---
+### **Thống kê ngôn ngữ**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sjsjsmsmsj&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjsjsmsmsj&layout=compact&theme=tokyonight" alt="langs" />
+</p>
+
+### **Streak** 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sjsjsmsmsj&theme=tokyonight" alt="streak" />
+</p>
+
 
 <p align="center">
   <img src="https://github.com/sjsjsmsmsj/Xu_Ly_Anh/blob/master/profile.png" width="500" height="500"/>
