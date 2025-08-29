@@ -59,7 +59,9 @@
 </p>
 
 ### **Streak**
-<p align="center"> <img src="https://streak-stats.demolab.com?user=sjsjsmsmsj&theme=tokyonight" alt="streak" /> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=octocat&theme=tokyonight" alt="streak" />
+</p>
 
 <p align="center">
   <img src="https://github.com/sjsjsmsmsj/Xu_Ly_Anh/blob/master/profile.png" width="500" height="500"/>
