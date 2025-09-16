@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I’m <span style="color:#F77F00;">Lâm Gia Thịnh</span>!</h1>
-<h3 align="center">🎓 Computer Science Student</h3>
+<h3 align="center">🎓 Computer Science Student and I'm currently working at HipVan</h3>
 
 <p align="center">
   🚀 Passionate about Technology, AI & Algorithms! <br>
