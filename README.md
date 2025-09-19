@@ -59,9 +59,7 @@
 </p>
 
 ### **Streak**
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=octocat&theme=tokyonight" alt="streak" />
-</p>
+
 <p align="center">
   <a href="https://leetcode.com/u/lamgiathinh05/">
     <img src="https://leetcard.jacoblin.cool/lamgiathinh05?theme=light&font=Roboto&ext=activity" alt="LeetCode Stats" />
