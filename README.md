@@ -4,9 +4,6 @@
 <h1 align="center">👋 Hi there, I'm <a href="https://github.com/sjsjsmsmsj">Lâm Gia Thịnh</a></h1>
 <h3 align="center">💻 Computer Science Student | 🚀 Software Developer Intern @ <a href="https://www.hipvan.com/">Hipvan</a></h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&center=true&vCenter=true&width=450&lines=Passionate+about+clean+code+and+design.;Learning+every+day+🚀;Problem+solver+%7C+Tech+Enthusiast+💡" alt="Typing animation" />
-</p>
 
 ---
 
