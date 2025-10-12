@@ -1,29 +1,39 @@
-<!-- 👋 Welcome Section -->
-<h1 align="center">Hi 👋, I'm Lâm Gia Thịnh</h1>
-<h3 align="center">💻 Computer Science Student | 🧠 Problem Solver | 🚀 Intern @ Hipvan</h3>
+<!-- 💫 GitHub Profile README - Lâm Gia Thịnh -->
 
----
-
-### 🌟 About Me
-
-- 🎓 I’m a **Computer Science** student passionate about coding, algorithms, and real-world problem-solving.  
-- 💼 Currently an **Intern at [Hipvan](https://www.hipvan.com/)**, where I’m gaining hands-on experience in web development and backend systems.  
-- 💡 Love exploring **system design, AI applications, and scalable software architecture**.  
-- 🧩 In my free time, I enjoy solving challenges on **LeetCode** and contributing to open-source projects.  
-
----
-
-### 🚀 My Coding Profiles
+<!-- Header -->
+<h1 align="center">👋 Hi there, I'm <a href="https://github.com/sjsjsmsmsj">Lâm Gia Thịnh</a></h1>
+<h3 align="center">💻 Computer Science Student | 🚀 Software Developer Intern @ <a href="https://www.hipvan.com/">Hipvan</a></h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&center=true&vCenter=true&width=450&lines=Passionate+about+clean+code+and+design.;Learning+every+day+🚀;Problem+solver+%7C+Tech+Enthusiast+💡" alt="Typing animation" />
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🎓 **Computer Science** student passionate about technology, problem-solving, and innovation.  
+- 💼 Currently an **Intern at [Hipvan](https://www.hipvan.com/)**, contributing to real-world web systems and backend services.  
+- 💬 Skilled in **Python, Java, Ruby on Rails, JavaScript, and SQL**.  
+- 💡 Interested in **Web Development, Data Structures, and Scalable Software Systems**.  
+- 🌱 Always learning and exploring new technologies to grow as a full-stack developer.  
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:lamgiathinh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/th%E1%BB%8Bnh-l%C3%A2m-gia-984007381/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://leetcode.com/u/lamgiathinh05/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://github.com/lamgiathinh">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/sjsjsmsmsj">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -44,10 +54,11 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -55,9 +66,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lamgiathinh&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamgiathinh&theme=tokyonight" alt="GitHub streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sjsjsmsmsj&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sjsjsmsmsj&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -72,28 +82,19 @@
 
 ### 🗂️ Featured Projects
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| [🛍️ Hipvan Internship Projects](https://github.com/lamgiathinh) | Ongoing projects and contributions during my internship. | Ruby on Rails, PostgreSQL |
-| [💡 Algorithm Challenges](https://github.com/lamgiathinh/leetcode-practice) | My LeetCode & DSA practice codes. | Python, Java |
-| [🌐 Portfolio Website](https://github.com/lamgiathinh/portfolio) | Personal website showcasing my journey. | React, Node.js |
+| 🚀 Project | Description | Tech Stack |
+|------------|-------------|-------------|
+| [🛍️ Hipvan Internship Projects](https://github.com/sjsjsmsmsj) | Internal tools & backend systems developed during my internship. | Ruby on Rails, PostgreSQL |
+| [💡 Algorithm Practice](https://github.com/sjsjsmsmsj/leetcode-practice) | My collection of LeetCode & DSA problem solutions. | Python, Java |
+| [🌐 Personal Portfolio](https://github.com/sjsjsmsmsj/portfolio) | Portfolio website to showcase my projects and achievements. | React, Node.js |
 
 ---
 
-### 📫 Connect with Me
+### 🧾 Fun Quote
+
+> _"Code. Learn. Improve. Repeat."_  
+> — Lâm Gia Thịnh
 
 <p align="center">
-  <a href="https://leetcode.com/u/lamgiathinh05/">
-    <img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://github.com/lamgiathinh">
-    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00FFFF&height=100&section=footer" />
 </p>
-
----
-
-⭐ **“Code. Learn. Improve. Repeat.”**  
-💬 _Always open to collaboration and learning from others!_
-
----
