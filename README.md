@@ -81,7 +81,6 @@
 
 | 🚀 Project | Description | Tech Stack |
 |------------|-------------|-------------|
-| [🛍️ Hipvan Internship Projects](https://github.com/sjsjsmsmsj) | Internal tools & backend systems developed during my internship. | Ruby on Rails, PostgreSQL |
 | [💡 Algorithm Practice](https://github.com/sjsjsmsmsj/leetcode-practice) | My collection of LeetCode & DSA problem solutions. | Python, Java |
 | [🌐 Personal Portfolio](https://github.com/sjsjsmsmsj/portfolio) | Portfolio website to showcase my projects and achievements. | React, Node.js |
 
