@@ -2,7 +2,7 @@
 
 <!-- Header -->
 <h1 align="center">👋 Hi there, I'm <a href="https://github.com/sjsjsmsmsj">Lâm Gia Thịnh</a></h1>
-<h3 align="center">💻 Computer Science Student | 🚀 Software Developer Intern @ <a href="https://www.hipvan.com/">Hipvan</a></h3>
+<h3 align="center">💻 Computer Science Student | 🚀 Software Engineer Intern @ <a href="https://www.hipvan.com/">Hipvan</a></h3>
 
 
 ---
