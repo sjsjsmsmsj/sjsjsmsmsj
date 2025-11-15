@@ -24,6 +24,10 @@
     * B.S. in Computer Science
     * *2023 – 2027*
 
+#### ✨ Awards & Scholarships
+* **Academic Excellence Scholarship** for the academic year **2024 – 2025**
+* **Academic Excellence Scholarship** for the academic year **2023 – 2024**
+
 ---
 
 ### 💼 Career
