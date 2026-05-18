@@ -45,7 +45,6 @@
       • FastAPI <br/>
       • <b>Ruby on Rails</b> <br/>
       • <b>React</b> <br/>
-      • Node.js
     </td>
     <td vertical-align="top">
       • <b>PostgreSQL</b> <br/>
@@ -55,8 +54,6 @@
       • <b>MongoDB</b>
     </td>
     <td vertical-align="top">
-      • Figma (Design) <br/>
-      • <b>Plane</b> (Agile) <br/>
       • Docker <br/>
       • Git <br/>
       • Jupyter
