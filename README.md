@@ -98,11 +98,11 @@ A structured roadmap containing AI Engineer interview notes, implementations, co
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/th%E1%BB%8Bnh-l%C3%A2m-gia-984007381">
+<a href="https://www.linkedin.com/in/thinh-lam-gia/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:lamgiathinh110605@gmail.com">
+<a href="mailto:lamgiathinh05@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
