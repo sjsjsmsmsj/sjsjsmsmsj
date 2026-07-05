@@ -1,129 +1,127 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DBFB,100:006D77&height=200&section=header&text=Lâm%20Gia%20Thịnh&fontSize=70&animation=fadeIn&fontAlignY=38" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DBFB&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+Enthusiast;;Experienced-Software+Engineer+Intern+@+Hipvan" alt="Typing SVG" />
-</p>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Actively%20Learning-blue?style=for-the-badge&logo=appveyor" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack-success?style=for-the-badge&logo=google-ai" />
-  <img src="https://img.shields.io/badge/Academic-Scholarship%20Winner-orange?style=for-the-badge&logo=google-scholar" />
+
+# 👋 Hi, I'm Lâm Gia Thịnh
+
+### Computer Science Student | AI Engineer Enthusiast | Backend Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DBFB&center=true&vCenter=true&width=650&lines=Computer+Science+Student;AI+Engineer+Enthusiast;Backend+Developer;Building+AI+for+Real+World+Problems" />
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
 </div>
 
 ---
 
-### 🧠 About Me
+## 🚀 About Me
 
-- 💡 **Computer Science** student at IUH (2023 – 2027) with a deep passion for **Scalable Systems**.
-- 🤖 **AI Enthusiast:** Focusing on applying **Machine Learning** models (NLP & Recommendation Systems) to solve real-world business challenges.
-- 💼 **Software Engineer Intern** at **[Hipvan](https://www.hipvan.com/)**, specializing in backend services and AI integration to optimize e-commerce processes.
-- 🛠️ **Full-Stack Competency:** Expertly bridging the gap between high-performance backends (**FastAPI, Rails**) and interactive frontends (**React**).
-- 🏆 Awarded **Academic Excellence Scholarships** for two consecutive years (2023–current).
-
----
-
-### 🛠️ Tech Stack & Ecosystem
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><strong>Languages</strong></td>
-    <td align="center" width="25%"><strong>Frameworks</strong></td>
-    <td align="center" width="25%"><strong>AI & Data</strong></td>
-    <td align="center" width="25%"><strong>Design & Tools</strong></td>
-  </tr>
-  <tr>
-    <td vertical-align="top">
-      • Python <br/>
-      • Ruby <br/>
-      • Java <br/>
-      • JavaScript <br/>
-      • SQL
-    </td>
-    <td vertical-align="top">
-      • FastAPI <br/>
-      • <b>Ruby on Rails</b> <br/>
-      • <b>React</b> <br/>
-    </td>
-    <td vertical-align="top">
-      • <b>PostgreSQL</b> <br/>
-      • PyTorch <br/>
-      • TensorFlow <br/>
-      • Scikit-Learn <br/>
-      • <b>MongoDB</b>
-    </td>
-    <td vertical-align="top">
-      • Docker <br/>
-      • Git <br/>
-      • Jupyter
-    </td>
-  </tr>
-</table>
+- 🎓 Computer Science student at **Industrial University of Ho Chi Minh City (2023–2027)**
+- 🤖 Passionate about **Computer Vision, Deep Learning and MLOps**
+- ⚙️ Interested in building scalable AI systems from research to deployment
+- 💻 Backend developer with **FastAPI**, **Ruby on Rails**, and **PostgreSQL**
+- 🏆 Academic Excellence Scholarship recipient
 
 ---
 
-### 🗂️ Featured Projects
+## 🛠 Tech Stack
 
-| 🚀 Project | Description | Tech Stack |
-|:-----------|:-------------|:-------------|
-| **[🤖 Recommendation System](https://github.com/GiaThinh110605/Recommendation_System)** | An intelligent content delivery engine using Collaborative Filtering to personalize user experiences. | **React, FastAPI, PostgreSQL, Scikit-Learn** |
----
+**Languages**
 
-### 📊 Performance & Statistics
+`Python` `Java` `JavaScript` `SQL`
 
-<table align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:61DBFB,100:006D77&height=20&section=header" width="100%"/>
-      <img src="https://raw.githubusercontent.com/GiaThinh110605/GiaThinh110605/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiaThinh110605&theme=tokyonight&hide_border=true&area=true" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiaThinh110605&theme=tokyonight" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GiaThinh110605&layout=donut&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-       <img src="https://leetcard.jacoblin.cool/lamgiathinh05?theme=dark&font=Source%20Code%20Pro&ext=contest" width="100%" />
-    </td>
-  </tr>
-</table>
+**Backend**
+
+`FastAPI` `Ruby on Rails`
+
+**AI / ML**
+
+`PyTorch` `Scikit-Learn` `OpenCV`
+
+**Database**
+
+`PostgreSQL` `MongoDB`
+
+**Tools**
+
+`Docker` `Git` `Jupyter`
 
 ---
 
-### 🌐 Connect With Me
+# ⭐ Featured Projects
+
+## 🔬 Drill Bit Defect Detection
+
+> High-performance Computer Vision system for industrial drill bit defect detection.
+
+**Highlights**
+
+- YOLO-based defect detection
+- Custom dataset training
+- Model optimization & benchmarking
+- Real-world industrial application
+
+🔗 Repository
+
+**https://github.com/GiaThinh110605/Drill_Bit_Defect_Detection**
+
+---
+
+## 📚 AI Engineer Interview Preparation
+
+A structured roadmap containing AI Engineer interview notes, implementations, coding problems, machine learning fundamentals, deep learning, computer vision, NLP, system design, and deployment.
+
+🔗 Repository
+
+**https://github.com/GiaThinh110605/AI_Engineer**
+
+---
+
+## 📈 GitHub Statistics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/th%E1%BB%8Bnh-l%C3%A2m-gia-984007381/" target="_blank">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lamgiathinh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=D14836&logo=Gmail&logoColor=FFFFFF&label=" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/u/lamgiathinh05/" target="_blank">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=FFA116&logo=LeetCode&logoColor=FFFFFF&label=" alt="LeetCode" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=GiaThinh110605&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaThinh110605&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GiaThinh110605&label=PROFILE+VIEWS&color=61DBFB&style=flat-square" alt="Views" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GiaThinh110605&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
-  <font size="3"><i>"Code with purpose, learn with passion, and let AI amplify the impact."</i></font> <br/>
-  <b>— Lâm Gia Thịnh</b>
+<img src="https://raw.githubusercontent.com/GiaThinh110605/GiaThinh110605/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DBFB,100:006D77&height=100&section=footer" />
+
+<a href="https://www.linkedin.com/in/th%E1%BB%8Bnh-l%C3%A2m-gia-984007381">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:lamgiathinh110605@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/lamgiathinh05/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </p>
+
+---
+
+<div align="center">
+
+> *"Building AI that solves real-world problems."*
+
+![](https://komarev.com/ghpvc/?username=GiaThinh110605&color=0e75b6)
+
+</div>
