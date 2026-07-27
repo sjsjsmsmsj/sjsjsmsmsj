@@ -54,6 +54,21 @@
 
 # ⭐ Featured Projects
 
+## 📊 SmartSheet-AI
+
+> AI-powered smart spreadsheet and data analytics application designed to automate data processing and insights extraction.
+
+**Highlights**
+
+- Intelligent spreadsheet processing with automated AI workflows
+- Modern and responsive user interface built with React & Tailwind CSS
+- Secure authentication & workspace management
+- Integration with AI models for natural language data querying and smart visualization
+
+🔗 Repository
+
+**https://github.com/GiaThinh110605/SmartSheet-AI**
+
 ## 🔬 Drill Bit Defect Detection
 
 > High-performance Computer Vision system for industrial drill bit defect detection.
@@ -62,6 +77,8 @@
 
 - YOLO-based defect detection
 - Custom dataset training
+- Custom some modules to improve detect tiny defects
+- Quantum model
 - Model optimization & benchmarking
 - Real-world industrial application
 
